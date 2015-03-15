@@ -12,6 +12,9 @@
     "type": "git",
     "url": "https://github.com/mbouclas/mcms-node-config-loader"
   },
+  "directories": {
+    "lib": "./lib/"
+  },
   "bugs": {
     "url": "https://github.com/mbouclas/mcms-node-config-loader/issues"
   },

@@ -35,7 +35,8 @@ var environments = {
     'development' : ['ubuntu','mike-PC','mint-box'],
     'production' : 'myProductionBox'
 };
-var Config = require("../lib/index")(environments);
+var configLoader = require("../index").setEnv(environments);
+var Config = configLoader.loadConfig(path.join(__dirname,'./config'));
 ```
 
 That's it, under the Config object you can now access all your settings
