@@ -1,0 +1,28 @@
+{
+  "name": "mcms-node-config-loader",
+  "description": "mcms node config loader.",
+  "version": "0.0.1",
+  "keywords": [
+    "mcms",
+    "framework",
+    "config",
+    "cms"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbouclas/mcms-node-config-loader"
+  },
+  "bugs": {
+    "url": "https://github.com/mbouclas/mcms-node-config-loader/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Michael Bouclas",
+    "email": "mbouclas@gmail.com",
+    "url": "http://www.net-tomorrow.com/"
+  },
+  "dependencies": {
+    "lodash": "^3.5.0",
+    "wrench": "^1.5.8"
+  }
+}

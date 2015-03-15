@@ -1,0 +1,7 @@
+{
+  "appName" : "my dev App",
+  "mySQL" : {
+    "host" : "localhost-dev",
+    "port" : "3306"
+  }
+}
