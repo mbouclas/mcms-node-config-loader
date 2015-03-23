@@ -1,7 +1,7 @@
 {
   "name": "mcms-node-config-loader",
   "description": "mcms node config loader.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "keywords": [
     "mcms",
     "framework",
