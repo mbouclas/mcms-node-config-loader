@@ -3,5 +3,10 @@
   "mySQL" : {
     "host" : "localhost-dev",
     "port" : "3306"
+  },
+  "mongodb" : {
+    "host" : "localhost-dev",
+    "port" : "27002",
+    "debug" : true
   }
 }
